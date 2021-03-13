@@ -1,0 +1,23 @@
+{
+  "name": "charting-library-react-js-example",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "2.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "urix": "^0.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "homepage": "https://www.hkhprj.com",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
